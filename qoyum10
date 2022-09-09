@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mokland</title>
+        <style>
+            .us{
+                background-color: crimson;
+                color: white;
+                height: 50px;
+                width: 1350px;
+                text-align: center;
+                padding-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+     <div class="us">MOKLAND VENTURES NIGERIA LTD</div>
+    </body>
+</html>
